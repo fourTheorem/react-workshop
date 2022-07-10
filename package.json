@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "workspaces": [
-    "01-first-component"
+    "01-first-component",
+    "02-components-tree"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
