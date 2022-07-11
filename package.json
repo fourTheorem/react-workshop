@@ -13,7 +13,10 @@
     "06-input",
     "07-use-effect",
     "08-loading-data",
-    "09-router"
+    "09-rendering-list",
+    "10-conditional-rendering",
+    "11-thinking-react",
+    "12-router"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
