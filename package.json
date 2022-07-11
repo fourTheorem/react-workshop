@@ -6,7 +6,14 @@
   "type": "module",
   "workspaces": [
     "01-first-component",
-    "02-components-tree"
+    "02-components-tree",
+    "03-props",
+    "04-event-handlers",
+    "05-state",
+    "06-input",
+    "07-use-effect",
+    "08-loading-data",
+    "09-router"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
