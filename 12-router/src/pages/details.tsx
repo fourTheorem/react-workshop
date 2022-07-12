@@ -1,5 +1,5 @@
-import React from 'react';
-import { useParams, Link } from 'react-router-dom';
+import React from 'react'
+import { useParams, Link } from 'react-router-dom'
 
 interface Person {
   name: string
@@ -9,12 +9,12 @@ interface Person {
 const people: Record<string, Person> = {
   luciano: {
     name: 'Luciano Mammino',
-    country: '🇮🇹',
+    country: '🇮🇹'
   },
   guilherme: {
     name: 'Guilherme Dalla Rosa',
-    country: '🇧🇷',
-  },
+    country: '🇧🇷'
+  }
 }
 
 export default function DetailsPage () {
