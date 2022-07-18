@@ -19,7 +19,7 @@ to install all the necessary dependencies.
 
 ## Getting started
 
-The material for this workshop is available in the form of slides here: [https://fth.link/react-slides](fth.link/react-slides).
+The material for this workshop is available in the form of slides here: [fth.link/react-slides](https://fth.link/react-slides).
 
 If you want to run a particular example, go to the specific example folder and run `npm run dev`.
 
