@@ -24,7 +24,7 @@ function RickMortyCharacter ({ charId }: RickMortyCharacterProps) {
       .catch(setError)
   }, [charId])
 
-  if (!character) {
+  if (!character && !error) {
     return <div>Loading ...</div>
   }
 
